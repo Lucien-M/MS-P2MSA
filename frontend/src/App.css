@@ -1,0 +1,16 @@
+body {
+    padding: 60px;
+    margin: 60px;
+    text-align: center;
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    color: goldenrod;
+}
+
+.subtitle {
+    text-align: center;
+    color: goldenrod;
+}
